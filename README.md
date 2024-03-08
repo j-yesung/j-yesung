@@ -2,4 +2,3 @@
 
 ![j-yesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-yesung&show_icons=true&theme=onedark)
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=하이성아)](https://www.codenary.co.kr/user-profile/detail/하이성아?github_ride=true&utm_source=github)
